@@ -1,3 +1,4 @@
+# [www.dark-coder.com](https://www.dark-coder.com/)
 # jQuery.CanvasLoader
 
 jQuery wrapper for [heartcodes CanvasLoader](https://github.com/heartcode/CanvasLoader).
